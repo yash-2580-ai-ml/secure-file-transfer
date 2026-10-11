@@ -121,6 +121,6 @@ Pure symmetric encryption (such as AES) is extremely fast for large files, but t
 
 ## 👥 Project Team
 
-- **Lead Developer**: [Member Name 1] - *Full-Stack Development & Cryptography Architecture*
-- **Security & ML Engineer**: [Member Name 2] - *Threat Detection Model & Security Engineering*
-- **UI/UX Designer**: [Member Name 3] - *Frontend Styling & Interface Design*
+- **Yash** - *Lead Developer, Cryptography Architecture & ML Engineering*
+- **Kushal** - *UI/UX Designer & Frontend Engineering*
+
